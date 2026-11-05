@@ -444,6 +444,7 @@
     <string name="piko_view_saved_instants">Переглянути збережені Instants</string>
     <string name="piko_instants_vault_empty">Поки що немає збережених Instants. Відкрийте кілька Instants з увімкненим збереженням, і вони з\'являться тут.</string>
     <string name="piko_instants_link_unavailable">Посилання на медіа недоступне.</string>
+    <string name="piko_instants_delete_selected_confirm">Видалити вибрані Instants (%d)?</string>
     <string name="piko_delete">Видалити</string>
     <string name="piko_instants_title">Instants</string>
     <string name="piko_search_username">Пошук за ім\'ям користувача</string>
